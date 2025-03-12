@@ -7,4 +7,4 @@ gsvenv/
 # Data
 data/processed/
 
-.github/
+.github/*
