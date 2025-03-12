@@ -1,0 +1,11 @@
+# Virtual environment
+gsvenv/
+
+# VS Code settings
+.vscode/*
+!.vscode/settings.json
+
+# Data
+data/processed/
+
+.github/
