@@ -2,8 +2,7 @@
 gsvenv/
 
 # VS Code settings
-.vscode/*
-!.vscode/settings.json
+.vscode/
 
 # Data
 data/processed/
