@@ -5,6 +5,6 @@ gsvenv/
 .vscode/
 
 # Data
-data/processed/
+data/
 
-.github/*
+.github
