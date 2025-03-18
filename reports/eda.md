@@ -1,5 +1,17 @@
 # Exploratory Data Analysis Report
 
+## Variable Descriptions
+- **Timestamp** → Date and time of the measurement
+- **GHI (Global Horizontal Irradiance), DNI (Direct Normal Irradiance), DHI (Diffuse Horizontal Irradiance)** → Solar radiation values
+- **ModA, ModB** → Possibly sensor module data (need clarification)
+- **Tamb** (Ambient Temperature), TModA, TModB → Temperature readings
+- **RH** (Relative Humidity) → Air moisture level
+- **WS** (Wind Speed), WSgust (Wind Gust), WSstdev (Wind Speed Standard Deviation) → Wind data
+- **WD** (Wind Direction), WDstdev (Wind Direction Standard Deviation) → Wind movement
+- **BP** (Barometric Pressure) → Air pressure
+- **Cleaning** → Might indicate sensor cleaning status
+- **Precipitation** → Rainfall levels
+
 ## Data Quality Check
 - **Null Values**: No null values were found in any of the DataFrames.
 - **Column Dropped**: The 'Comments' column was dropped from all three DataFrames.
