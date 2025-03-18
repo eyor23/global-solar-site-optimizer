@@ -19,6 +19,12 @@
 ## Summary Statistics
 The analysis revealed that Benin-Malanville has the highest average Global Horizontal Irradiance (GHI) of **241.96 watts per square meter**, making it the best location for solar installation among the three sites.
 
+- **Togo-Dapaong**: GHI = **231.72**, DNI = **151.26**
+- **Benin-Malanville**: GHI = **241.96**, DNI = **167.44**
+- **Sierra Leone-Bumbuna**: GHI = **204.41**, DNI = **116.52**
+
+CSP may not be the better option for Togo-Dapaong compared to Benin-Malanville.
+
 ## Average Wind Speeds (m/s)
 - **Benin-Malanville**: 2.12
 - **Sierra Leone-Bumbuna**: 1.15
@@ -43,4 +49,4 @@ The bar charts show the average sensor readings for ModA and ModB before and aft
 
 
 ## Conclusion
-Based on the analysis, Benin-Malanville is identified as the most suitable location for solar installation, thanks to its favorable GHI and consistent solar radiation trends. The data cleaning process has enhanced the reliability of the sensor readings, providing a solid foundation for further analysis and implementation.
+Based on the analysis, Benin-Malanville is identified as the most suitable location for solar installation, thanks to its favorable GHI and consistent solar radiation trends. The data cleaning process has enhanced the reliability of the sensor readings, providing a solid foundation for further analysis and implementation. Although Togo-Dapaong has a higher DNI, its lower GHI makes CSP a less favorable option compared to Benin-Malanville.
