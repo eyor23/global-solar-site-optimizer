@@ -1,0 +1,1 @@
+pip install numpy pandas tensorflow scikit-learn fastapi uvicorn streamlit dash matplotlib seaborn
